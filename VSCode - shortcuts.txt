@@ -1,0 +1,65 @@
+// Ver atajos de teclado:
+"Ctrl + K, Ctrl + S"
+
+/* **************************************************************************
+SHORTCUTS PARA TRABAJAR CON ARCHIVOS HTML
+************************************************************************** */
+// Cargar template de archivo HTML5:
+"html:5 + Enter"
+ 
+// Crear una etiqueta que contenga una determinada clase:
+"<etiqueta>.<clase> + Enter" --> Ej. "h1.titulo" creará <h1 class="titulo"></h1>
+ 
+// Crear varias etiquetas en simultáneo:
+"<etiqueta>*<cantidad> + Enter" --> Ej. "div.pirulo*10" creará 10 divs de la clase pirulo --> <div class="pirulo"></div>
+ 
+// Tipear un mismo contenido en diferentes filas a la vez:
+"Ctrl + Alt + Flechas"
+ 
+/* **************************************************************************
+OPERACIONES SOBRE LINEAS
+************************************************************************** */
+// Standard de copiado, cortado y pegado de una línea entera:
+"<Ctrl + C> || <Ctrl + X> || <Ctrl + V>"
+ 
+// Mover la línea actual hacia abajo ó hacia arriba:
+"Alt + <flecha abajo || flecha arriba>"
+ 
+// Copiar la línea actual a la línea debajo ó a la de arriba:
+"Shift + Alt + <flecha abajo || flecha arriba>"
+ 
+// Insertar una línea debajo de la línea actual:
+"Ctrl + Enter"
+ 
+// Insertar una línea arriba de la línea actual:
+"Shift + Ctrl + Enter"
+ 
+ 
+/* **************************************************************************
+Selección múltiple
+************************************************************************** */
+// Selecciona la línea actual:
+"Ctrl + L"
+ 
+// Seleccionar todas las instancias de la selección actual:
+"Ctrl + Shift + L"
+ 
+// Seleccionar todas las coincidencias de la palabra actual:
+"Ctrl + F2" 
+ 
+ 
+/* **************************************************************************
+OPERACIONES CON COMENTARIOS
+************************************************************************** */
+// Para comentar la línea donde se encuentra el cursor:
+"Ctrl + /"
+ 
+// Para comentar un bloque de líneas:
+"Shift + Alt + A"
+ 
+// Comentar varias líneas:
+"Ctrl + K, Ctrl + C"
+ 
+// Descomentar varias líneas:
+"Ctrl + K, Ctrl + U"
+ 
